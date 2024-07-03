@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 $hostname = "127.0.0.1";
 $username = "root"; 
 $password = "";
-$dbname = "EBEWD2_CR4_AngeloPane_BigLibrary"; 
+$dbname = ""; 
 
 $connect = new mysqli($hostname, $username, $password, $dbname);
 
